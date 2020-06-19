@@ -1,5 +1,3 @@
-# Studypool
-
 ### メモ帳
 
 ### Git
